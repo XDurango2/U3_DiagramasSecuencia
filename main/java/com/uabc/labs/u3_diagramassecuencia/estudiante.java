@@ -1,17 +1,13 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-
 package com.uabc.labs.u3_diagramassecuencia;
 
 /**
  *
- * @author Hector Duran
+ * @author us
  */
-public class U3_diagramasSecuencia {
-
-    public static void main(String[] args) {
-
-        dashboard d1 = new dashboard();
-    }
+public class estudiante {
+    
 }
