@@ -8,7 +8,7 @@ import java.util.Random;
 
 /**
  *
- * @author us
+ * @author Hector Duran
  */
 public class TemperatureSensor {
     private Random rd;

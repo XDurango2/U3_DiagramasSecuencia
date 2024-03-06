@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author us
+ * @author Hector Duran
  */
 public class estudiante {
     private int matricula;

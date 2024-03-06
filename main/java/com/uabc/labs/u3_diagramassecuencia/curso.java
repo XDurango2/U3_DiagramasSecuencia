@@ -8,7 +8,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author us
+ * @author Hector Duran
  */
 public class curso {
     private int numeroCurso;

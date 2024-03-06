@@ -6,7 +6,8 @@ package com.uabc.labs.u3_diagramassecuencia;
 
 /**
  *
- * @author us
+ * @author Hector Duran
+ * 
  */
 public class sensorProxy {
     private TemperatureSensor ts;

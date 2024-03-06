@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author us
+ * @author Hector Duran
  */
 public class inscripcion {
     HashMap<String,curso> inscripcion;
